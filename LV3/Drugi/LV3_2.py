@@ -7,7 +7,6 @@ print(mtcars)
 
 mtcarsAvg = mtcars[mtcars['cyl'].isin([4,6,8])]
 
-
 plt.figure(figsize = (8,6))
 plt.bar(mtcarsAvg['cyl'], mtcars['mpg'])
 plt.xlabel('Cylinders')
