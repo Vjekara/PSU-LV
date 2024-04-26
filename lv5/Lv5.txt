@@ -1,0 +1,5 @@
+a) Pokrenite skriptu i pogledajte dobiveni dijagram raspršenja. Što primjećujete?
+Da postoji razlika između toga kada ima ljudi u sobi i kada nema
+b) Koliko podatkovnih primjera sadrži učitani skup podataka?
+10130
+c) Kakva je razdioba podatkovnih primjera po klasama?
